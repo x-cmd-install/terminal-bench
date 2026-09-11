@@ -12,6 +12,18 @@ A benchmark for LLMs on complicated tasks in the terminal
 x install terminal-bench
 ```
 
+## Code insight
+
+Total: **199,557** lines of code across **1670** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 63,001 | 0 | 9 | 43 |
+| Python | 55,238 | 5,018 | 12,308 | 532 |
+| Sh | 43,393 | 5,486 | 7,620 | 557 |
+| Yaml | 12,299 | 724 | 862 | 535 |
+| Cpp | 5,621 | 927 | 891 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/laude-institute/terminal-bench>
@@ -30,21 +42,12 @@ x install terminal-bench
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **199,557** lines of code across **1670** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 63,001 | 0 | 9 | 43 |
-| Python | 55,238 | 5,018 | 12,308 | 532 |
-| Sh | 43,393 | 5,486 | 7,620 | 557 |
-| Yaml | 12,299 | 724 | 862 | 535 |
-| Cpp | 5,621 | 927 | 891 | 3 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -55,4 +58,4 @@ Install metadata for terminal-bench lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:54:41Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:23:48Z._
