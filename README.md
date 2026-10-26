@@ -32,22 +32,22 @@ Total: **199,557** lines of code across **1670** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,606 · **Forks**: 572 · **Open issues**: 255 · **Contributors**: 97
+- **Stars**: 2,607 · **Forks**: 571 · **Open issues**: 256 · **Contributors**: 97
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 748 · **Open PRs**: 199 · **Closed issues**: 135 · **Open issues**: 120 · **Commits**: 904
+- **Releases**: 0 · **Merged PRs**: 748 · **Open PRs**: 199 · **Closed issues**: 135 · **Open issues**: 121 · **Commits**: 904
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-05 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for terminal-bench lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T02:37:39Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T02:36:14Z._
